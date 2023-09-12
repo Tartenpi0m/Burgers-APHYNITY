@@ -1,0 +1,1 @@
+La présence d'un underscore permet au scripts (que ce soit train_aphynity.py ou extrapolate.py) de lire le dossier et donc les paramètres qu'ils contient. Si le underscore n'est pas présent, le dossier sera ignoré.

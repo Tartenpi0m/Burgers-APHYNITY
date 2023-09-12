@@ -1,0 +1,14 @@
+{
+    "N": 32768,
+    "L": 6.283185307179586,
+    "T": 1,
+    "DT": 0.00001,
+    "NU": 0.0001,
+    "CS": 0.17,
+    "SPATIAL_FILT": 256,
+    "TEMPORAL_FILT": 1000,
+    "FORCED_STEP": 5000,
+    "FORCE_CHANGE": 10000,
+    "FORCE_STRENGTH": 0.3,
+    "FORCE_INITIAL_STRENGTH": 1.5
+}
